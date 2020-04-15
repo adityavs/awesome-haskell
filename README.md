@@ -10,6 +10,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
     - [Category Theory](#category-theory)
     - [Compilers](#compilers)
     - [Concurrency & Parallelism](#concurrency--parallelism)
+    - [Configuration](#configuration)
     - [Cryptography & Hashing](#cryptography--hashing)
     - [Data Access](#data-access)
     - [Data Formats](#data-formats)
@@ -131,6 +132,12 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
     ---
 * [Concurrency & Parallelism](http://chimera.labs.oreilly.com/books/1230000000929/index.html) - (Book) Parallel and Concurrent Programming in Haskell
+
+## Configuration
+
+* [Deiko-config](http://hackage.haskell.org/package/deiko-config) - small typesafe library that uses [HOCON](https://github.com/lightbend/config#features-of-hocon) config format
+* [Dhal](https://github.com/dhall-lang/dhall-haskell) - A configuration language guaranteed to terminate 
+* [Configurator](http://hackage.haskell.org/package/configurator) - A configuration management library which supports automatic, dynamic reloading in response to modifications to configuration files.
 
 ## Cryptography & Hashing
 
@@ -395,6 +402,12 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [Revised report](https://www.haskell.org/onlinereport/) - Haskell 98 Language and Libraries. The Revised Report.
 * [H-99](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems) -  Ninety-Nine Haskell Problems.
 
+    ### Web Tutorials 
+    * [Introduction to Haskell - Web Programming](http://www.shakthimaan.com/posts/2016/01/27/haskell-web-programming/news.html)
+    * [Your First Web Application with Spock](https://haskell-at-work.com/episodes/2018-04-09-your-first-web-application-with-spock.html)
+    * [Scotty-Tutorials-&-Examples](https://github.com/scotty-web/scotty/wiki/Scotty-Tutorials-&-Examples)
+    * [Getting Started](https://www.spock.li/tutorials/getting-started)
+    * [Developing Web Applications with Yesod and Haskell](https://www.yesodweb.com/book-1.6)
 
 ### Video Tutorials
 
@@ -409,6 +422,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 ## Courses
 
 * [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0) - Fall 2014 MOOC on edX by DelftX featuring Haskell as the primary language of focus.
+* [Functional Programming in Haskell](https://www.futurelearn.com/courses/functional-programming-haskell/) - Introductory MOOC to functional programming in Haskell by the University of Glasgow. 
 
 ## Conferences
 
